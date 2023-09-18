@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "sBIYlkjxLwCH9xYLRH1JEI5oARJEuM6aOT+oOTGdS1ElYdc/P3B1LgbhsWV3R/KijRpcmm9Vy1hjRoVPJjXEWg==",
+  "success": true,
+  "projectFilePath": "F:\\Career\\c#\\docker_dotnet_redis\\docker_dotnet_redis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ankit\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512",
+    "C:\\Users\\Ankit\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\Ankit\\.nuget\\packages\\stackexchange.redis\\2.6.122\\stackexchange.redis.2.6.122.nupkg.sha512",
+    "C:\\Users\\Ankit\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\docker_dotnet_redis.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YJFjDEitS/LmP/2AQ0CUZvNMD5kX21c0p8AWYcAto3k=",
+  "Source": "docker_dotnet_redis",
+  "BasePath": "_content/docker_dotnet_redis",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
